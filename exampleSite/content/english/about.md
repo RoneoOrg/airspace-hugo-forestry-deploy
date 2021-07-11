@@ -6,7 +6,7 @@ layout: about
 about:
   enable: true
   image: images/company/about.jpg
-  title: We strive to be the best and <br> make awesome work.
+  title: Une équipe à votre service
   content: |-
     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam iure officiis facere vitae itaque.
 
